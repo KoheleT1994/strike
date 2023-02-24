@@ -3,3 +3,4 @@ Add line
 a new line
 i am a priest 
 new branch line
+New Line
